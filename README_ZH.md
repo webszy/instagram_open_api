@@ -142,7 +142,7 @@
 > Get
 
 请求参数
-
+>context 有blended、hashtag
 > 要查询的word
 
 返回示例
