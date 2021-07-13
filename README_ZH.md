@@ -135,7 +135,7 @@
 
 请求地址
 
->`https://www.instagram.com/web/search/topsearch/?context=blended&include_reel=true&query={word}`
+>`https://www.instagram.com/web/search/topsearch/?context=blended&include_reel=true&query={word}&rank_token={Math.random()}`
 
 请求方式
 
